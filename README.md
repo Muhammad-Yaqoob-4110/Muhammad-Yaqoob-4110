@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Muhammad Yaqoob</h1>
-<h3 align="center">A passionate programmer from Pakistan</h3>
+<h3 align="center">A passionate Software Developer from Pakistan 🇵🇰</h3>
 
+- 🔭 Currently working as an **Associate Software Developer** specializing in **Core PHP** and **Laravel**
 
-- 🔭 I’m currently working on [spark](https://github.com/ETLOnline/spark)
+- 🌱 Currently learning **Vue.js** and **Inertia.js**
 
-- 🌱 I’m currently learning **How to Contribute to Open Source Projects at GitHub**
+- 💬 Ask me about **PHP, Generative AI, and Machine Learning**
 
-- 💬 Ask me about **MERN, Generative Ai & Machine Learning**
+- 📫 Reach me at: **myaqoob4110@gmail.com**
 
-- 📫 How to reach me *myaqoob4110@gmail.com**
-- 🔗 Connect me with [Linkedin](https://www.linkedin.com/in/muhammad-yaqoob-968a26252/)
+- 🔗 Connect with me on **[LinkedIn](https://www.linkedin.com/in/muhammad-yaqoob-968a26252/)**
 
-- ⚡ Fun fact **I think I am funny**
+- ⚡ Fun fact: *I keep debugging until it works 😄*
